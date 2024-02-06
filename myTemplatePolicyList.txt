@@ -1,0 +1,53 @@
+Policy Number: 3450
+Provider Name: State Farm
+Policyholder's First Name: Alice
+Policyholder's Last Name: Jones
+Policyholder's Age: 20
+Policyholder's Smoking Status (smoker/non-smoker): smoker
+Policyholder's Height: 65.0
+Policyholder's Weight: 110.0
+
+Policy Number: 3455
+Provider Name: Aetna
+Policyholder's First Name: Bob
+Policyholder's Last Name: Lee
+Policyholder's Age: 54
+Policyholder's Smoking Status (smoker/non-smoker): non-smoker
+Policyholder's Height: 72.0
+Policyholder's Weight: 200.0
+
+Policy Number: 2450
+Provider Name: Met Life
+Policyholder's First Name: Chester
+Policyholder's Last Name: Williams
+Policyholder's Age: 40
+Policyholder's Smoking Status (smoker/non-smoker): smoker
+Policyholder's Height: 71.0
+Policyholder's Weight: 300.0
+
+Policy Number: 3670
+Provider Name: Global
+Policyholder's First Name: Cindy
+Policyholder's Last Name: Smith
+Policyholder's Age: 55
+Policyholder's Smoking Status (smoker/non-smoker): non-smoker
+Policyholder's Height: 62.0
+Policyholder's Weight: 140.0
+
+Policy Number: 1490
+Provider Name: Reliable
+Policyholder's First Name: Jenna
+Policyholder's Last Name: Lewis
+Policyholder's Age: 30
+Policyholder's Smoking Status (smoker/non-smoker): smoker
+Policyholder's Height: 60.0
+Policyholder's Weight: 105.0
+
+Policy Number: 3477
+Provider Name: State Farm
+Policyholder's First Name: Craig
+Policyholder's Last Name: Duncan
+Policyholder's Age: 23
+Policyholder's Smoking Status (smoker/non-smoker): smoker
+Policyholder's Height: 66.0
+Policyholder's Weight: 215.0
